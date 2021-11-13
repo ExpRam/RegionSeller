@@ -1,0 +1,16 @@
+name: RegionSeller
+main: ru.expram.RegionSeller
+version: 1.0.0
+
+api-version: 1.13
+
+commands:
+  regions:
+    aliases: [rgsell]
+    description: You can sell region using this command.
+  adminregions:
+    aliases: [adminrg]
+    description: Plugin admin command.
+  regionsbuy:
+    aliases: [rgbuy]
+    description: Region buy command!
