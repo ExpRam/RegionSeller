@@ -165,7 +165,7 @@ public class RegionsMenu extends PageMenu {
                 vector3.getZ(),
                 p.getLocation().getYaw(),
                 p.getLocation().getPitch()
-        );
+        ).add(0, 1, 0);
         return loc;
     }
 
