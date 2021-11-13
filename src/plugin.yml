@@ -2,6 +2,7 @@ name: RegionSeller
 main: ru.expram.RegionSeller
 version: 1.0.0
 
+author: ExpRam
 api-version: 1.13
 
 commands:
